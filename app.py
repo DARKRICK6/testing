@@ -72,8 +72,8 @@ async def GeNeRaTeAccEss(uid , password):
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "close"}
     data = {
-        "uid": uid,
-        "password": password,
+        "uid": 4508780075,
+        "password": 14852F03312B53C4F9CA55B9E888772078D4F30B89CD01412A6755C5EF6DAFC7,
         "response_type": "token",
         "client_type": "2",
         "client_secret": "2ee44819e9b4598845141067b281621874d0d5d7af9d8f7e00c1e54715b7d1e3",
